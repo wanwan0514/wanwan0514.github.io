@@ -2,7 +2,13 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
+mermaid: true
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+```mermaid
+pie
+    title 导随职业分布
+    "白魔": 37
+    "贤者": 486
+    "学者": 64
+```
