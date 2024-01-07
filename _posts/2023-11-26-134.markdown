@@ -1,0 +1,20 @@
+---
+layout: post
+title: "导随记录134"
+date: 2023-11-26 00:00:00 +0800
+categories: [导随, 贤者]
+tags: [导随]
+author: wanwan
+toc: true
+comments: true
+pin: true
+---
+> 日期：2023.11.26
+>
+> 等级：10
+>
+> 副本：讨伐彷徨死灵！
+>
+> 职业：贤者
+
+今天就和这俩脚本过不去了。

@@ -1,0 +1,20 @@
+---
+layout: post
+title: "导随记录80"
+date: 2023-11-23 00:00:00 +0800
+categories: [导随, 贤者]
+tags: [导随]
+author: wanwan
+toc: true
+comments: true
+pin: true
+---
+> 日期：2023.11.23
+>
+> 等级：83
+>
+> 副本：魔导神门巴别塔
+>
+> 职业：贤者
+
+你们DK是不是都喜欢开黑盾然后挨一顿毒打！

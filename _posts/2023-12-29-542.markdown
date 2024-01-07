@@ -1,0 +1,20 @@
+---
+layout: post
+title: "导随记录542"
+date: 2023-12-29 00:00:00 +0800
+categories: [导随, 白魔]
+tags: [导随]
+author: wanwan
+toc: true
+comments: true
+pin: true
+---
+> 日期：2023.12.29
+>
+> 等级：50
+>
+> 副本：凛冽洞天披雪大冰壁
+>
+> 职业：白魔
+
+白魔打低级本好麻烦。

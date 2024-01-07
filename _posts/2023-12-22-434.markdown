@@ -1,0 +1,20 @@
+---
+layout: post
+title: "导随记录434"
+date: 2023-12-22 00:00:00 +0800
+categories: [导随, 贤者]
+tags: [导随]
+author: wanwan
+toc: true
+comments: true
+pin: true
+---
+> 日期：2023.12.22
+>
+> 等级：69
+>
+> 副本：巨炮要塞帝国白山堡
+>
+> 职业：贤者
+
+呜呜 会给我黑盾的DK！
